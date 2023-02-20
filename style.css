@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 20px;
+   
+}
+body{
+    width: 100wh;;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    border: 2px solid red;
+    padding: 10px 20px;
+}
+.container .heading{
+    text-align: center;
+    font-size:40px;
+    padding:10px 20px
+}
+.container .jock{
+    margin: 20px;
+}
